@@ -1,0 +1,6 @@
+C:\Users\lgrangeiro\source\repos\WCF.Test\WCF.Test\bin\Debug\WCF.Test.dll
+C:\Users\lgrangeiro\source\repos\WCF.Test\WCF.Test\bin\Debug\WCF.Test.pdb
+C:\Users\lgrangeiro\source\repos\WCF.Test\WCF.Test\obj\Debug\WCF.Test.csprojAssemblyReference.cache
+C:\Users\lgrangeiro\source\repos\WCF.Test\WCF.Test\obj\Debug\WCF.Test.csproj.CoreCompileInputs.cache
+C:\Users\lgrangeiro\source\repos\WCF.Test\WCF.Test\obj\Debug\WCF.Test.dll
+C:\Users\lgrangeiro\source\repos\WCF.Test\WCF.Test\obj\Debug\WCF.Test.pdb
